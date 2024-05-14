@@ -50,11 +50,12 @@ Publish the website in the LocalHost.
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             background-image: url(cyber.png);
             background-size: cover;
+            background-color: rgb(136, 59, 4);
         }
             
         
         .insight{
-            color:azure;
+            color:rgb(0, 83, 83);
         
         }
         
@@ -66,14 +67,14 @@ Publish the website in the LocalHost.
         
             display: inline;
             position: relative;
-            color:cornflowerblue;
+            color:rgb(0, 44, 127);
             top:270px;
             
             font-family:Georgia;
             font-size: medium;
         }
         .booktitle{
-            color:azure;
+            color:rgb(80, 195, 118);
             font-family: 'Courier New', Courier, monospace;
             font-size: larger;
             text-align: center;
@@ -88,14 +89,14 @@ Publish the website in the LocalHost.
             
         }
         .pub{
-            color:azure;
+            color:rgb(109, 230, 170);
             font-size: medium;
             position: relative;
             top:235px;
             left:330px;
         }
         .ed{
-            color:azure;
+            color:rgb(8, 68, 68);
             font-size: medium;
             font-family: Verdana;
             position:relative;
@@ -103,7 +104,7 @@ Publish the website in the LocalHost.
         
         }
         .subtitle{
-            color:azure;
+            color:rgb(201, 203, 107);
             font-family:unicorn;
             font-size: large;
             position: relative;
@@ -119,7 +120,7 @@ Publish the website in the LocalHost.
                 AI&DS/ML
             </div>
             <div class="hrstyle">
-                <hr style="color:blanchedalmond">
+                <hr style="color:rgb(77, 46, 0)">
             </div>
             <div class="booktitle">
                 <h1>MASTERING THE DATA PARADOX</h1></div>
@@ -134,7 +135,7 @@ Publish the website in the LocalHost.
 <br><br>
            
             <div class="id">
-                <hr style="color:blanchedalmond">
+                <hr style="color:rgb(93, 56, 0)">
             </div>
             <div class="author">
                <p><b>KIRUTHIKA M</b></p>
@@ -154,7 +155,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![GUGHAN S](https://github.com/Kiruthikasutha/cover/assets/144979570/098b0abd-6d83-4de0-8650-0e810e36f6c2)
+![alt text](<Screenshot 2024-05-14 112645.png>)
 
 
 
