@@ -154,7 +154,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![GUGHAN S (4)](https://github.com/GUGHAN-3001/cover/assets/150009432/6c20925c-b012-448d-8ce0-43c1b8defe40)
+![GUGHAN S](https://github.com/Kiruthikasutha/cover/assets/144979570/098b0abd-6d83-4de0-8650-0e810e36f6c2)
+
 
 
 
